@@ -1,0 +1,78 @@
+body {
+    background-color: white;
+}
+
+header {
+    background-color: rgb(58, 37, 6);
+    position: relative;
+    justify-content: center;
+    border-radius: 40px;
+}
+.logo {
+    width: 80px;
+    height: auto;
+}
+
+.cabeçalho {
+    display: flex;
+    align-items: left;
+    justify-content: center;
+}
+nav{
+    margin-left: auto;
+}
+.menu{
+    list-style: none;/*Tira o marcador*/
+    margin: 0%;
+    padding: 0%;
+    display: flex;/*Exibe os itens em linha reta*/
+    justify-content: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.menu li{
+    margin: 0 15px;
+}
+.menu a{
+    color: white;
+    text-decoration: none;/*Tira o sublinhado*/
+    transition: background-color 0.2s;
+}
+.menu a:hover{
+    background-color: saddlebrown;
+    border-radius: 7px;
+    border-bottom: 7px;
+}
+h1{
+    color:rgb(58, 37, 6);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+h2{
+    color:rgb(58, 37, 6);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+h3{
+    color: saddlebrown;
+    font-size: 25px;
+    justify-content: center;
+}
+.cardapio{
+    justify-content: center;
+    color:rgb(30, 19, 3);
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    flex: content;
+    background-color: rgba(200, 196, 191, 0.799);
+    border-radius: 40px;
+    list-style: none;
+}
+.loc{
+    background-color:rgb(83, 42, 13);
+    border-radius: 100px; 
+}
+
+.redes{
+   font-size: 20px;
+   color: saddlebrown;
+   justify-content: center;
+}
