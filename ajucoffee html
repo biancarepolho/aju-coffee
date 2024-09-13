@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AJUCOFFEE</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <div class="cabeçalho"><img src="c:\Users\biama\Downloads\café-removebg-preview.png" alt="logo" class="logo">
+        </div>
+        <div>
+            <nav>
+                <ul class="menu">
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#sobre">Sobre</a></li>
+                    <li><a href="#serviços">Serviços</a></li>
+                    <li><a href="#contato">Contato</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <br>
+    <center>
+        <h1>AjuCoffee</h1>
+    </center>
+    <center><b>
+            <p style="color:saddlebrown; font-size: 20px;">Aberto de segunda a sábado<br>das 10h ás 20h</p>
+        </b></center>
+    <center>
+        <h2>Home
+            <br><img src="c:\Users\biama\Downloads\imagem cafe real.jpeg" alt="cafe" width="500" height="auto">
+        </h2>
+    </center>
+    <div>
+        <h3><center>CARDÁPIO</center>
+
+            <center><ul class="cardapio"><br>Bebidas Quentes
+                <li>Café expresso - 6$</li>
+                <li>Café com leite - 5$</li>
+                <li>Chocolate quente - 7$</li>
+                <li>Chás diversos - 4$</li><br>
+                <br>Bebidas Geladas
+                <li>Sucos diversos - 5$</li>
+                <li>Café gelado - 12$</li>
+                <li>Refrigerante - 6$</li>
+                <li>Chás diversos - 4$</li><br>
+                <br>Acompanhamentos
+                <li>Misto - 6$</li>
+                <li>Croissants - 8$</li>
+                <li>Bolo - 7$</li>
+                <li>Biscoitos Caseiros - 3$uni</li><br>
+            </ul></center>
+    </div>
+    </h3>
+    <div class="loc"><br>
+        <center>
+            <h2 style="color: white;">Nossa Localização</h2><br>
+            <img src="c:\Users\biama\OneDrive\Imagens\Capturas de tela\Captura de tela 2024-09-12 155646.png"
+                width="400" height="auto">
+            <p style="color: white; font-family: 'Times New Roman', Times, serif;">Rua urquiza leal,1105<br>Bairro
+                Grageru</p><br>
+        </center>
+    </div>
+    <br>
+    <h2><hr>
+        <center>
+            Nossa rede social
+    </h2>
+    </center>
+   <center> <div class="redes">
+        <p><img src="c:\Users\biama\Downloads\insta.jpeg" width="30px" height="auto"><a
+                href="https://www.instagram.com/">Ajucoffee_</a></p></center>
+    </div>
+</body>
+
+</html>
